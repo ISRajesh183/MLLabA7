@@ -9,7 +9,7 @@ Exp7 - Clustering
 - scikit-learn
 
 ## Datasets
-- Wisconsin Diagnostic Dataset (UCI)
+- Human Activity Recognition Dataset (UCI)
 
 ## Project Structure
 - notebook/ - Jupyter Notebook implementing all steps
