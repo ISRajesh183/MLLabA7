@@ -7,6 +7,7 @@ Exp7 - Clustering
 - matplotlib
 - seaborn
 - scikit-learn
+- scipy
 
 ## Datasets
 - Human Activity Recognition Dataset (UCI)
