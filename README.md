@@ -22,7 +22,7 @@ Exp7 - Clustering
 1. Clone the repository:
     ```bash
     git clone https://github.com/ISRajesh183/MLLabA7.git
-    cd MLLabA6
+    cd MLLabA7
     ```
 2. Install dependencies:
     ```bash
